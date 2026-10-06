@@ -9,8 +9,8 @@
 
 ### About the logo
 
-$$
+```math
 \begin{vmatrix} a & 1 \\ 0 & i \end{vmatrix} = a \cdot i - 1 \cdot 0 = ai
-$$
+```
 
 The diagonal survives; the off-diagonal cancels out. The determinant is **AI**.
